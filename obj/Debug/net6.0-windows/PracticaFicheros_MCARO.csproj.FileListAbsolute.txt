@@ -1,0 +1,146 @@
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\obj\Debug\net6.0-windows\PracticaFicheros_MCARO_Content.g.cs
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\obj\Debug\net6.0-windows\PracticaFicheros_MCARO_MarkupCompile.cache
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\obj\Debug\net6.0-windows\PracticaFicheros_MCARO_MarkupCompile.lref
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.exe
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\bin\Debug\net6.0-windows\fichero7.png
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.deps.json
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.runtimeconfig.json
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.dll
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.pdb
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.g.resources
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.dll
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\obj\Debug\net6.0-windows\refint\PracticaFicheros_MCARO.dll
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.pdb
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO\obj\Debug\net6.0-windows\ref\PracticaFicheros_MCARO.dll
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.exe
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.deps.json
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.runtimeconfig.json
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.dll
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.pdb
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO_Content.g.cs
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO_MarkupCompile.cache
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO_MarkupCompile.lref
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.g.resources
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.dll
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\refint\PracticaFicheros_MCARO.dll
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.pdb
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\ref\PracticaFicheros_MCARO.dll
+C:\Users\Usuario\Desktop\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\fichero8.png
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.exe
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\fichero8.png
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.deps.json
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.runtimeconfig.json
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.dll
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.pdb
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.csproj.AssemblyReference.cache
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO_Content.g.cs
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO_MarkupCompile.cache
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO_MarkupCompile.lref
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.g.resources
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.AssemblyInfoInputs.cache
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.AssemblyInfo.cs
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.csproj.CoreCompileInputs.cache
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.dll
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\refint\PracticaFicheros_MCARO.dll
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.pdb
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.genruntimeconfig.cache
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\ref\PracticaFicheros_MCARO.dll
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\ficheroA.png
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\ficheroB.png
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.exe
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\fichero8.png
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\ficheroA.png
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\ficheroB.png
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.deps.json
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.runtimeconfig.json
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.dll
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.pdb
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO_Content.g.cs
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO_MarkupCompile.cache
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO_MarkupCompile.lref
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.g.resources
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.dll
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\refint\PracticaFicheros_MCARO.dll
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.pdb
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\PracticaFicheros_MCARO_FINAL-20230517T112925Z-001\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\ref\PracticaFicheros_MCARO.dll
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.exe
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\fichero8.png
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\ficheroA.png
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\ficheroB.png
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.deps.json
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.runtimeconfig.json
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.dll
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.pdb
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.csproj.AssemblyReference.cache
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO_Content.g.cs
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO_MarkupCompile.cache
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO_MarkupCompile.lref
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.g.resources
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.AssemblyInfoInputs.cache
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.AssemblyInfo.cs
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.csproj.CoreCompileInputs.cache
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.dll
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\refint\PracticaFicheros_MCARO.dll
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.pdb
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.genruntimeconfig.cache
+C:\Users\mcaro\Downloads\PracticaFicheros_MCARO_FINAL_MOD(2)\PracticaFicheros_MCARO_FINAL\obj\Debug\net6.0-windows\ref\PracticaFicheros_MCARO.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.exe
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\bin\Debug\net6.0-windows\fichero8.png
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\bin\Debug\net6.0-windows\ficheroA.png
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\bin\Debug\net6.0-windows\ficheroB.png
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.deps.json
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.runtimeconfig.json
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\bin\Debug\net6.0-windows\PracticaFicheros_MCARO.pdb
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.csproj.AssemblyReference.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\obj\Debug\net6.0-windows\PracticaFicheros_MCARO_Content.g.cs
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\obj\Debug\net6.0-windows\PracticaFicheros_MCARO_MarkupCompile.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\obj\Debug\net6.0-windows\PracticaFicheros_MCARO_MarkupCompile.lref
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.g.resources
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.AssemblyInfoInputs.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.AssemblyInfo.cs
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.csproj.CoreCompileInputs.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\obj\Debug\net6.0-windows\refint\PracticaFicheros_MCARO.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.pdb
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\obj\Debug\net6.0-windows\PracticaFicheros_MCARO.genruntimeconfig.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\5.Ficheros\obj\Debug\net6.0-windows\ref\PracticaFicheros_MCARO.dll
